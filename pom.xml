@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.edu.unidavi.webdev.poo</groupId>
 	<artifactId>solution</artifactId>
-	<version>00.00.01-SNAPSHOT</version>
+	<version>00.00.02-SNAPSHOT</version>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
