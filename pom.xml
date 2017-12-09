@@ -12,4 +12,8 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.report.outputEncoding>UTF-8</project.report.outputEncoding>
+	</properties>
 </project>
