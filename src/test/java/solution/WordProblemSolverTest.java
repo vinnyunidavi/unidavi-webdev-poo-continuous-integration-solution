@@ -25,13 +25,11 @@ public class WordProblemSolverTest {
         assertEquals(2, solver.solve("What is 1 plus 1?"));
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testSingleAddition2() {
         assertEquals(55, solver.solve("What is 53 plus 2?"));
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testSingleAdditionWithNegativeNumbers() {
         assertEquals(-11, solver.solve("What is -1 plus -10?"));
