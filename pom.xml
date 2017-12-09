@@ -4,4 +4,12 @@
 	<groupId>br.edu.unidavi.webdev.poo</groupId>
 	<artifactId>solution</artifactId>
 	<version>00.00.01-SNAPSHOT</version>
+	<dependencies>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
 </project>
