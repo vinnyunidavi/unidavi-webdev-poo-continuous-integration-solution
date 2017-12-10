@@ -2,9 +2,9 @@ package basketball;
 
 public class Game {
 
-	private String awayTeam;
-	private String homeTeam;
-	private int year;
+	private  final String awayTeam;
+	private final String homeTeam;
+	private final int year;
 	@Override
 	public int hashCode() {
 		final int prime = 31;
